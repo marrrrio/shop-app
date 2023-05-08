@@ -1,0 +1,1 @@
+Example of simple springboot rest application
